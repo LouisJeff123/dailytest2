@@ -1,0 +1,12 @@
+.h1{
+    text-align:center;
+    color:white;
+}
+.text{
+    font-family:'Gill Sans';
+    color: greenyellow;
+    text-align: center;
+}
+.body{
+    background-color: darkslateblue;
+}
